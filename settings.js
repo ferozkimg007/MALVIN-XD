@@ -1,4 +1,4 @@
-
+malvin~k68DUbBJ#28YGHMqVZZeLqMrqiqYqSj3KVEurvtPVUoOReVx6wyY
 const fs = require('fs');
 if (fs.existsSync('config.env')) require('dotenv').config({ path: './config.env' });
 
